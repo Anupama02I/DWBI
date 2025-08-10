@@ -1,0 +1,16 @@
+provider_id,provider_name,speciality_id,affiliated_hospital
+1,Nandini Srivastava,8,AIIMS
+2,Aashi Devi,1,Kokilaben Hospital
+3,Madhavi Ahluwalia,12,Global Hospitals
+4,Priya Menon,9,Narayana Health
+5,Rudra Gandhi,11,Columbia Asia
+6,Leela Jha,7,Care Hospitals
+7,Pratibha Yadav,5,Manipal Hospital
+8,Sarika Zutshi,4,AIIMS
+9,Sangeeta Chadha,12,Tata Memorial Hospital
+10,Gauri Khanna,11,BLK Super Speciality Hospital
+11,Vihaan Subramanian,15,Manipal Hospital
+12,Akanksha Chadha,8,Wockhardt Hospitals
+13,Meera Bajaj,14,BLK Super Speciality Hospital
+14,Deepa Pandey,6,Fortis Hospital
+15,Ishaan Ghosh,13,Columbia Asia

@@ -1,0 +1,61 @@
+disease_id,disease_name,disease_type,severity,transmission_mode,mortality_rate,speciality_id
+38,Pneumonia,Infectious,Moderate,Airborne,0.1,8
+36,Bone Fractures,Acute,Moderate,Indirect contact,0.01,8
+37,Tumors,Non-infectious,Severe,Indirect contact,0.2,8
+40,Kidney Stones,Non-infectious,Moderate,Indirect contact,0.01,8
+39,Aneurysms,Non-infectious,Severe,Indirect contact,0.2,8
+2,Arrhythmia,Chronic,Moderate,Non-applicable,0.05,1
+3,Hypertension,Chronic,Moderate,Non-applicable,0.1,1
+4,Coronary Artery Disease,Chronic,Severe,Non-applicable,0.2,1
+1,Heart Attack,Acute,Critical,Non-applicable,0.3,1
+5,Heart Failure,Chronic,Critical,Non-applicable,0.5,1
+58,Glomerulonephritis,Non-infectious,Severe,Indirect contact,0.1,12
+57,Acute Kidney Injury,Acute,Severe,Indirect contact,0.1,12
+56,Chronic Kidney Disease,Chronic,Severe,Indirect contact,0.2,12
+59,Kidney Stones,Non-infectious,Moderate,Indirect contact,0.01,12
+60,Polycystic Kidney Disease,Chronic,Severe,Indirect contact,0.2,12
+41,Depression,Non-infectious,Moderate,Indirect contact,0.05,9
+43,Bipolar Disorder,Non-infectious,Severe,Indirect contact,0.1,9
+44,Schizophrenia,Non-infectious,Severe,Indirect contact,0.2,9
+42,Anxiety,Non-infectious,Moderate,Indirect contact,0.01,9
+45,PTSD,Non-infectious,Moderate,Indirect contact,0.05,9
+55,Erectile Dysfunction,Non-infectious,Moderate,Indirect contact,0.01,11
+51,Kidney Stones,Non-infectious,Moderate,Indirect contact,0.01,11
+53,Prostate Cancer,Non-infectious,Severe,Indirect contact,0.2,11
+52,Bladder Infections,Infectious,Moderate,Direct contact,0.01,11
+54,Urinary Incontinence,Non-infectious,Moderate,Indirect contact,0.01,11
+35,Lymphoma,Non-infectious,Moderate,Indirect contact,0.1,7
+32,Breast Cancer,Non-infectious,Severe,Indirect contact,0.1,7
+31,Lung Cancer,Infectious,Severe,Indirect contact,0.2,7
+34,Leukemia,Non-infectious,Severe,Indirect contact,0.2,7
+33,Prostate Cancer,Non-infectious,Moderate,Indirect contact,0.05,7
+25,Rosacea,Non-infectious,Mild,Indirect contact,0.01,5
+21,Acne,Non-infectious,Moderate,Indirect contact,0.01,5
+24,Skin Cancer,Non-infectious,Severe,Indirect contact,0.2,5
+22,Eczema,Non-infectious,Moderate,Indirect contact,0.01,5
+23,Psoriasis,Non-infectious,Moderate,Indirect contact,0.01,5
+20,Whooping Cough,Infectious,Severe,Airborne,0.05,4
+17,Chickenpox,Infectious,Mild,Airborne,0.01,4
+16,Asthma,Chronic,Moderate,Indirect contact,0.05,4
+19,Mumps,Infectious,Mild,Direct contact,0.01,4
+18,Measles,Infectious,Moderate,Airborne,0.1,4
+75,Tuberculosis,Infectious,Severe,Airborne,0.1,15
+74,Pneumonia,Infectious,Moderate,Airborne,0.1,15
+72,Chronic Obstructive Pulmonary Disease,Chronic,Severe,Indirect contact,0.2,15
+73,Lung Cancer,Non-infectious,Severe,Indirect contact,0.2,15
+71,Asthma,Chronic,Moderate,Indirect contact,0.05,15
+70,Ankylosing Spondylitis,Chronic,Moderate,Indirect contact,0.05,14
+68,Gout,Chronic,Moderate,Indirect contact,0.01,14
+67,Lupus,Chronic,Severe,Indirect contact,0.1,14
+66,Rheumatoid Arthritis,Chronic,Severe,Indirect contact,0.2,14
+69,Scleroderma,Chronic,Severe,Indirect contact,0.2,14
+29,Hepatitis,Infectious,Moderate,Direct contact,0.2,6
+27,Ulcerative Colitis,Chronic,Severe,Indirect contact,0.05,6
+30,Celiac Disease,Chronic,Moderate,Indirect contact,0.01,6
+28,Irritable Bowel Syndrome,Chronic,Moderate,Indirect contact,0.01,6
+26,Crohn's Disease,Chronic,Severe,Indirect contact,0.1,6
+64,Adrenal Disorders,Non-infectious,Severe,Indirect contact,0.2,13
+65,Pituitary Disorders,Non-infectious,Moderate,Indirect contact,0.05,13
+63,Osteoporosis,Non-infectious,Severe,Indirect contact,0.1,13
+62,Thyroid Disorders,Non-infectious,Moderate,Indirect contact,0.01,13
+61,Diabetes,Chronic,Moderate,Indirect contact,0.05,13
